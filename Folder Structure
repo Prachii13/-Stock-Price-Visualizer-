@@ -1,0 +1,6 @@
+stock_price_visualizer/
+│
+├── stock_plotter.py
+├── requirements.txt
+├── README.md
+└── .gitignore
