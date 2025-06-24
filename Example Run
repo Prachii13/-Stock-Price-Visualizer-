@@ -1,0 +1,4 @@
+$ python stock_plotter.py
+Enter stock ticker symbol (e.g., AAPL, TSLA, INFY.NS): INFY.NS
+Enter start date (YYYY-MM-DD): 2023-01-01
+Enter end date (YYYY-MM-DD): 2023-12-31
